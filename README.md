@@ -32,8 +32,6 @@ Busco aplicar conhecimento em projetos que gerem impacto positivo e aprendizado 
 
 ---
 
----
-
 ## 📂 Meus Projetos
 
 Aqui estão alguns projetos que desenvolvi e você pode conferir no meu GitHub:
