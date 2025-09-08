@@ -29,3 +29,15 @@ Busco aplicar conhecimento em projetos que gerem impacto positivo e aprendizado 
 - [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
 - [GitHub](https://github.com/seurepositorio)  
 - ✉️ Email: moze05@gmail.com
+
+---
+
+---
+
+## 📂 Meus Projetos
+
+Aqui estão alguns projetos que desenvolvi e você pode conferir no meu GitHub:
+
+- 🧮 [Calculadoras Financeiras](https://github.com/mozeadriel/Calculadoras-Financeiras) – Calculadora de juros compostos e outras ferramentas financeiras em HTML, CSS e JavaScript.
+
+✨ Clique nos links para acessar os repositórios e ver os códigos, demos e projetos completos!
