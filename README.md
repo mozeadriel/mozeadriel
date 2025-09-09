@@ -10,7 +10,7 @@ Busco aplicar conhecimento em projetos que gerem impacto positivo e aprendizado 
 ---
 
 ## 💻 Skills Técnicas
-- 🖥️ Java - Sistemas Desktop  
+- 🖥️ C++ - Sistemas Desktop  
 - 📱 Flutter (Dart) - Mobile multiplataforma  
 - 📊 Excel - Avançado  
 - 🔧 Git - Controle de versão  
