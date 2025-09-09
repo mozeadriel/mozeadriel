@@ -37,5 +37,6 @@ Busco aplicar conhecimento em projetos que gerem impacto positivo e aprendizado 
 Aqui estão alguns projetos que desenvolvi e você pode conferir no meu GitHub:
 
 - 🧮 [Calculadoras Financeiras](https://github.com/mozeadriel/Calculadoras-Financeiras) – Calculadora de juros compostos e outras ferramentas financeiras em HTML, CSS e JavaScript.
+- 📊 [Análise Comparativa de Vagas](https://github.com/mozeadriel/analise-vagas-mobile-desktop) - Análise Comparativa de Vagas: Desenvolvimento Mobile x Desktop em Setembro de 2025.
 
 ✨ Clique nos links para acessar os repositórios e ver os códigos, demos e projetos completos!
